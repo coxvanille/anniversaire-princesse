@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "Est-ce que je suis beau ?",
-            options: ["Oui ❤️", "Évidemment Oui !", "Le plus beau du monde ❤️", "Oui à 1000% ✨"],
+            options: ["Oui ❤️", "Évidemment Oui !", "Le plus beau du monde ❤️", "Oui à 1000% ❣️ "],
             correct: "all"
         }
     ];
